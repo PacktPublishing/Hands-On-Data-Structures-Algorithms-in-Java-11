@@ -19,9 +19,9 @@ Basic knowledge of Java programming language is essential.
 
 ### Technical Requirements
 This course has the following requirements:<br/>
-IDE, IntelliJ IDEA CE
-Java SDK 11
-Internet browser
+IDE, IntelliJ IDEA CE<br/>
+Java SDK 11<br/>
+Internet browser<br/>
 
 
 ## Related Products
